@@ -8,6 +8,6 @@ class CardShopComponent extends StatelessWidget{
 
   Widget build(BuildContext context) {
 
-    return const Text('Shop');
+    return const Text('sssss');
   }
 }
