@@ -17,7 +17,7 @@ class BottomAppBarComponent extends StatelessWidget {
             icon: Icon(Icons.card_travel),
           ),
           Tab(
-            icon: Icon(Icons.verified_user_sharp),
+            icon: Icon(Icons.manage_accounts_sharp),
           )
         ],
       ),

@@ -34,7 +34,9 @@ class MyApp extends StatelessWidget{
             children: [
             MyHome(),
             Icon(Icons.home),
-            Icon(Icons.home),
+            Icon(Icons.manage_accounts_sharp),
+          
+     
           ]),
           bottomNavigationBar: const BottomAppBarComponent(),
         ),
